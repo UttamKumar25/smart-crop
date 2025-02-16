@@ -1,0 +1,9 @@
+numpy>=1.25
+setuptools>=65.5.0
+wheel
+pickle-mixin==1.0.2
+streamlit==1.23.1
+seaborn==0.12.2  # Corrected latest stable version
+pandas==2.0.2
+matplotlib==3.7.1
+scikit-learn==1.2.2  # Corrected hyphen (-) instead of underscore (_)
